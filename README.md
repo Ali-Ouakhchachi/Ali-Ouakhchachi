@@ -8,7 +8,7 @@
   - [Test](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Test](https://github.com/joshmadakor1/EncrypterPOC)
 
 ## Languages I have used:
 
