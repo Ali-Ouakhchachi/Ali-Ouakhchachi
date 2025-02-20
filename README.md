@@ -1,15 +1,5 @@
 <h1>Hello, I'm Ali! <br/>I'm a <a href="https://github.com/Ali-Ouakhchachi">Programmer</a> and an Undergraduate Student currently completing my Bachelor's in Computer Science. 
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Test](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Test](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-
-- <b>C# (.NET Desktop Applications)</b>
-  - [Test](https://github.com/joshmadakor1/EncrypterPOC)
-
 ## Languages I have used:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
