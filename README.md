@@ -1,6 +1,6 @@
 <h1>Hello, I'm Ali! <br/>I'm a <a href="https://github.com/Ali-Ouakhchachi">Programmer</a> and an Undergraduate Student currently completing my Bachelor's in Computer Science. 
 
-## Currently I am:
+## Currently I am... 📝:
 * Studying Database Management Systems at Metro State University
 
 ## Languages I have used:
